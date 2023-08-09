@@ -11,12 +11,12 @@
 
 >- hooks/: É uma pasta especial que contém scripts personalizados que são acionados automaticamente em determinados eventos do Git. Esses scripts são chamados de "ganchos" e permitem que você execute ações específicas antes ou depois de certas operações do Git, como commits, push, merge, entre outros.
 
->info/:
-
->logs/:
-
 >objects/: Essa pasta é usada para armazenar os objetos do Git, que são os blocos fundamentais de dados usados pelo Git para representar o conteúdo do seu repositório, como blobs (dados), árvores (diretórios) e commits.
 
 >packed-refs: É um arquivo usado pelo Git para armazenar referências (como branches e tags) que foram "compactadas" em um único arquivo. O objetivo desse arquivo é melhorar o desempenho do Git em repositórios com muitas referências.
 
 >refs/: No contexto do repositório Git, o termo "refs" refere-se a uma abreviação de "references" (referências, em português). As referências no Git são ponteiros que apontam para commits específicos ou outras referências, como branches e tags. Elas são usadas para rastrear a história do repositório e identificar os commits e outras entidades importantes do controle de versão.
+
+>info/:
+
+>logs/:
