@@ -1,12 +1,6 @@
 # Projeto-integrador
 #### Descrição do diretório .git
-#### Meu work local
 
-#### Teste rebase remoto
-
-#### Meu repositório remoto
-
-#### Teste Rebase local
 
 >- config: No contexto do Git, a pasta ".git/config" armazena as configurações específicas do repositório local. É um arquivo de configuração usado pelo Git para armazenar informações específicas do repositório, como detalhes do usuário, informações de remotos, comportamento padrão do Git e outras configurações relevantes para o repositório local.
 
